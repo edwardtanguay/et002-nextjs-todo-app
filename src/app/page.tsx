@@ -16,9 +16,9 @@ export default async function Home() {
 				<h1 className="text-2xl">Todos</h1>
 				<Link
 					className="border border-slate-300 text-slate-300 px-1 py-1 rounded hover:bg-slate-700 focus-within:bg-slate-700 outline-none"
-					href="/info"
+					href="/add"
 				>
-					Info
+					Add Todo
 				</Link>
 			</header>
 			<ul className="">
